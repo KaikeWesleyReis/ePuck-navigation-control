@@ -1,12 +1,11 @@
 # BIR Challenge
 This code was created using Lua programming language in V-REP Software. The challenge consist in create a navigation system to ePuck robot model allowing him to:
-- start 
+- start from Start Point
 - follow a black line as route
 - avoid any obstacle present in his route
 - follow the black line after avoid a obstacle 
-- finish when ePuck gets to ending point
-
-*PS*: To works correctly, is necessary to start with the light sensors in white field.
+- finish when ePuck gets to Ending Point
+*PS*: To works correctly, is necessary to start with the light sensors in a white field.
 
 ### Test Environment
 Here you can see the environment here this navigation system was created to face:
