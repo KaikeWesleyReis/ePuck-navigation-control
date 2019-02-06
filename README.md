@@ -6,6 +6,8 @@ This code was created using Lua programming language in V-REP Software. The chal
 - follow the black line after avoid a obstacle 
 - finish when ePuck gets to ending point
 
+*PS*: To works correctly, is necessary to start with the light sensors in white field.
+
 ### Test Environment
 Here you can see the environment here this navigation system was created to face:
 ![env](https://user-images.githubusercontent.com/32513366/52373421-be922380-2a41-11e9-82a9-4f038d66fd5f.PNG)
@@ -34,7 +36,7 @@ To improve my navigation system quality, several combinations from those obstacl
 - A good routine to get the line after avoiding a obstacle;
 - Vision's Treshold Improvement.
 
-### Possible Issues
-Unfortunately the code is not perfect. There are some issues that can happen:
+### Possible Issues and Community help
+Well, the code is not perfect. There are some issues that can happen:
 - Putting two obstacles too close i.e. you don't give a space to ePuck to get a line after avoiding the first obstacle and then avoid the second obstacle can break the routines;
-- The routine to get a line when start doesn't respond well to some situations, in fact this was the most problematical part to create this system;
+- The routine to get a line when start doesn't respond well to some situations, in fact this was the most problematical part to create this system. The best scenarios where works fine is when the robot get diagonally over the the line. Unfortunaley I took two days trying to solve this issue and I did not figure out how can I take perfectly the line, independent of any angle.
