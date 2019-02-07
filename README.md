@@ -6,7 +6,7 @@ This code was created using Lua programming language in V-REP Software. The chal
 - follow the black line after avoid a obstacle 
 - finish when ePuck gets to Ending Point
 
-*PS*: To works correctly, is necessary to start with the light sensors in a white field.
+*PS*: To works correctly, is necessary to start with the light sensors in a white field and with the robot looking to the circuit!
 
 ### Test Environment
 Here you can see the environment where was developed the navigation system:
