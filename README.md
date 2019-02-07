@@ -14,9 +14,11 @@ Here you can see the environment here the navigation system was created:
 
 ### Obstacles Type, Start Point and End Point
 The Start Point proposed and the End Point respectively:
+
 ![startend](https://user-images.githubusercontent.com/32513366/52374926-a4f2db00-2a45-11e9-9272-9ae687491ad1.png)
 
-and here there are the two main types of obstacles:
+And here there are the two main types of obstacles:
+
 ![obstacles](https://user-images.githubusercontent.com/32513366/52373562-1fb9f700-2a42-11e9-892f-3e57d9562678.PNG)
 
 To improve my navigation system quality, several combinations from those obstacles types was putted in the environment (angle and putting together), increasing the difficulty for ePuck to avoid obstacles and come back to your route.
