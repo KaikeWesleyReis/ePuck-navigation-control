@@ -33,6 +33,7 @@ To improve my navigation system quality, several combinations from those obstacl
 ### Main Improvements compared to Demo Navigation System
 - A well organized code with commentaries and a explicit declaration of hyper parameters from navigation system;
 - A more precise division of routines: Look for a line, follow the line in a normal way or after avoiding a obstacle and so on. Different from the demo;
+- Stop ePuck by distance to End Point;
 - Follow line algorithm in general was improved compared the old one;
 - Avoid Obstacles was improved and tested with different combinations in the environment;
 - A good routine to get the line after avoiding a obstacle;
