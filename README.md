@@ -5,14 +5,15 @@ This code was created using Lua programming language in V-REP Software. The chal
 - avoid any obstacle present in his route
 - follow the black line after avoid a obstacle 
 - finish when ePuck gets to Ending Point
+
 *PS*: To works correctly, is necessary to start with the light sensors in a white field.
 
 ### Test Environment
-Here you can see the environment here this navigation system was created to face:
+Here you can see the environment here the navigation system was created:
 ![env](https://user-images.githubusercontent.com/32513366/52373421-be922380-2a41-11e9-82a9-4f038d66fd5f.PNG)
 
 ### Obstacles Type, Start Point and End Point
-Here, you can see the start point proposed and the End Point respectively:
+The Start Point proposed and the End Point respectively:
 ![startend](https://user-images.githubusercontent.com/32513366/52374926-a4f2db00-2a45-11e9-9272-9ae687491ad1.png)
 
 and here there are the two main types of obstacles:
