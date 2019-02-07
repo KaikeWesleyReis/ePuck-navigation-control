@@ -9,7 +9,7 @@ This code was created using Lua programming language in V-REP Software. The chal
 *PS*: To works correctly, is necessary to start with the light sensors in a white field.
 
 ### Test Environment
-Here you can see the environment here the navigation system was created:
+Here you can see the environment where was developed the navigation system:
 ![env](https://user-images.githubusercontent.com/32513366/52373421-be922380-2a41-11e9-82a9-4f038d66fd5f.PNG)
 
 ### Obstacles Type, Start Point and End Point
