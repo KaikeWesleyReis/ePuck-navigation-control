@@ -42,4 +42,4 @@ To improve my navigation system quality, several combinations from those obstacl
 ### Possible Issues and Community help
 Well, the code is not perfect. There are some issues that can happen:
 - Putting two obstacles too close i.e. you don't give a space to ePuck to get a line after avoiding the first obstacle and then avoid the second obstacle can break the routines;
-- The routine to get a line when start doesn't respond well to some situations, in fact this was the most problematical part to create this system. The best scenarios where works fine is when the robot get diagonally over the the line. Unfortunaley I took two days trying to solve this issue and I did not figure out how can I take perfectly the line, independent of any angle.
+- The routine to get a line when start doesn't respond well to some situations, in fact this was the most problematical part to create this system. The best scenarios where works fine is when the robot get diagonally over the the line. Unfortunaley I took two days trying to solve this issue and I did not figure out how can I take perfectly the line, independent of any angle. (**SOLVED AT VERSION 3**)
