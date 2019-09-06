@@ -6,7 +6,7 @@ This code was created using Lua programming language in V-REP Software. The chal
 - follow the black line after avoid a obstacle 
 - finish when ePuck gets to Ending Point
 
-*PS*: To works correctly, is necessary to start with the light sensors in a white field and with the robot looking to the circuit!
+*PS*: To works correctly, is necessary to start with the light sensors in a white field and with the robot looking to the line!
 
 ### Test Environment
 Here you can see the environment where was developed the navigation system:
@@ -21,7 +21,7 @@ And here there are the two main types of obstacles:
 
 ![obstacles](https://user-images.githubusercontent.com/32513366/52373562-1fb9f700-2a42-11e9-892f-3e57d9562678.PNG)
 
-To improve my navigation system quality, several combinations from those obstacles types was putted in the environment (angle and putting together), increasing the difficulty for ePuck to avoid obstacles and come back to your route.
+To improve my navigation system quality, several combinations from those obstacles types was placed in the environment, increasing the difficulty for ePuck to avoid obstacles and come back to your route.
 
 ### Challenges to create this navigation system
 - Learn Lua programming code to perform this task;
