@@ -1,4 +1,4 @@
-# BIR Challenge
+# ePuck Challenge
 This code was created using Lua programming language in V-REP Software. The challenge consist in create a navigation system to ePuck robot model allowing him to:
 - start from Start Point
 - follow a black line as route
